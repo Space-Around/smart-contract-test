@@ -1,0 +1,6 @@
+/artifacts/
+/cache/
+/contracts/Box.sol
+/node_modules/
+secret.json
+.env
